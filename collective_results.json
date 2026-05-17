@@ -1,0 +1,112 @@
+[
+  {
+    "test": 1,
+    "collective_prediction": "COVID",
+    "collective_confidence": 1.0,
+    "consensus": true,
+    "vm_votes": {
+      "VM1": "COVID",
+      "VM2": "COVID",
+      "VM3": "COVID"
+    }
+  },
+  {
+    "test": 2,
+    "collective_prediction": "COVID",
+    "collective_confidence": 1.0,
+    "consensus": true,
+    "vm_votes": {
+      "VM1": "COVID",
+      "VM2": "COVID",
+      "VM3": "COVID"
+    }
+  },
+  {
+    "test": 3,
+    "collective_prediction": "COVID",
+    "collective_confidence": 1.0,
+    "consensus": true,
+    "vm_votes": {
+      "VM1": "COVID",
+      "VM2": "COVID",
+      "VM3": "COVID"
+    }
+  },
+  {
+    "test": 4,
+    "collective_prediction": "COVID",
+    "collective_confidence": 1.0,
+    "consensus": true,
+    "vm_votes": {
+      "VM1": "COVID",
+      "VM2": "COVID",
+      "VM3": "COVID"
+    }
+  },
+  {
+    "test": 5,
+    "collective_prediction": "COVID",
+    "collective_confidence": 1.0,
+    "consensus": true,
+    "vm_votes": {
+      "VM1": "COVID",
+      "VM2": "COVID",
+      "VM3": "COVID"
+    }
+  },
+  {
+    "test": 6,
+    "collective_prediction": "COVID",
+    "collective_confidence": 1.0,
+    "consensus": true,
+    "vm_votes": {
+      "VM1": "COVID",
+      "VM2": "COVID",
+      "VM3": "COVID"
+    }
+  },
+  {
+    "test": 7,
+    "collective_prediction": "COVID",
+    "collective_confidence": 1.0,
+    "consensus": true,
+    "vm_votes": {
+      "VM1": "COVID",
+      "VM2": "COVID",
+      "VM3": "COVID"
+    }
+  },
+  {
+    "test": 8,
+    "collective_prediction": "COVID",
+    "collective_confidence": 1.0,
+    "consensus": true,
+    "vm_votes": {
+      "VM1": "COVID",
+      "VM2": "COVID",
+      "VM3": "COVID"
+    }
+  },
+  {
+    "test": 9,
+    "collective_prediction": "COVID",
+    "collective_confidence": 1.0,
+    "consensus": true,
+    "vm_votes": {
+      "VM1": "COVID",
+      "VM2": "COVID",
+      "VM3": "COVID"
+    }
+  },
+  {
+    "test": 10,
+    "collective_prediction": "COVID",
+    "collective_confidence": 1.0,
+    "consensus": true,
+    "vm_votes": {
+      "VM1": "COVID",
+      "VM2": "COVID",
+      "VM3": "COVID"
+    }
+  }
+]
