@@ -1,0 +1,32 @@
+version: '3.8'
+
+services:
+  vm1:
+    build: ./vm1
+    container_name: vm1
+    cpus: '1.0'
+    mem_limit: 500m
+    volumes:
+      - ./models:/models
+    environment:
+      - MODEL_PATH=/models/baseline_best.pt
+    
+  vm2:
+    build: ./vm2
+    container_name: vm2
+    cpus: '2.0'
+    mem_limit: 1g
+    volumes:
+      - ./models:/models
+    environment:
+      - MODEL_PATH=/models/baseline_best.pt
+
+  vm3:
+    build: ./vm3
+    container_name: vm3
+    cpus: '2.0'
+    mem_limit: 2g
+    volumes:
+      - ./models:/models
+    environment:
+      - MODEL_PATH=/models/baseline_best.pt
