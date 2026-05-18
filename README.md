@@ -1,10 +1,10 @@
 # Projet IoT - Inférence Médicale Embarquée
 ## Master Data Science - ENS Martil
 
+**Dépôt GitHub :** https://github.com/wijdanehr08/projet-embarque/tree/main
+
 ## Dataset
 COVID-19 Radiography Database - 21165 images - 4 classes (COVID, Normal, Lung_Opacity, Viral Pneumonia)
-
-**Dépôt GitHub :** https://github.com/wijdanehr08/projet-embarque/tree/main
 
 ## Architecture Baseline
 MobileNetV2 - Accuracy: 85% - Taille: 8.74 Mo
